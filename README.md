@@ -1,2 +1,0 @@
-# ARRubik
-Rubik with ARKit
